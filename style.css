@@ -17,14 +17,12 @@ header a {
 
 
 
-
 h1 {
     color: #eee;
     font-size: 28px;
     text-align: left;
     margin-right: auto;
     }
-
 
 
 .Container1 {
@@ -128,5 +126,7 @@ main{
     justify-content: end;
     align-items: flex-start;
     padding-inline-end: 20px;
-    border-right: 1px solid black; /* Ajoute une bordure inférieure noire */
+    border-right: 1px solid black; /* Ajoute une bordure inférieure noire */
 }
+
+
